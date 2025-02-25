@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @strsaeed34
 - 👀 I’m interested in Programming & Web Development
-- 🌱 I’m currently learning C# And DotNet Core
+- 🌱 I’m currently learning PHP and Laravel , and Vue.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
